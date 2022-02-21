@@ -1,0 +1,179 @@
+
+#main{
+    display:flex;
+    align-items:center;
+    width: 400px;   
+    height: 500px;
+    left: 116px;
+    top: 361px;
+    background: #1A1B21;
+    position:absolute;
+}
+
+#headshot{
+    display:flex;
+    align-items: center;
+    position:absolute;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 116px;
+    top: 44px;
+border-radius: 10px 10px 0px 0px;
+}
+
+#main > h2{
+    position: absolute;
+    width: 350px;
+    height: 25.81px;
+    left: 20px;
+    top: 0px;
+    color:white;
+    text-align:center;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+}
+
+#role{
+    position: absolute;
+    width: 178.06px;
+    height: 14.19px;
+    left: 100px;
+    top: 38px;
+    margin-top:15px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+    color: #F3BF99;
+}
+
+#git{
+    position: absolute;
+width: 228px;
+height: 16px;
+left: 75px;
+top: 57px;
+margin-top:15px;
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 10.24px;
+line-height: 150%;
+text-align: center;
+color: #F5F5F5;
+}
+
+.linkedin{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    position: absolute;
+    width: 120px;
+    height: 34px;
+    left: 320px;
+    top: 468px;
+    background: #5093E2;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    color:#FFFFFF;
+}
+
+.email{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 13px 9px 11px;
+
+position: absolute;
+width: 120px;
+height: 34px;
+left: 185px;
+top: 468px;
+
+background: #FFFFFF;
+/* gray/300 */
+
+border: 1px solid #D1D5DB;
+box-sizing: border-box;
+/* shadow/sm */
+
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+}
+
+#bio{
+position:absolute;
+width: 300px;
+height: 201px;
+left: 152px;
+top: 520px;
+}
+
+#bio > h3{
+    
+width: 242.71px;
+height: 21px;
+left: 152px;
+top: 535px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+
+color: #F5F5F5;
+}
+
+#bio > p{
+margin-top:-10px;
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 10.24px;
+line-height: 180%;
+/* or 15px */
+
+color: #DCDCDC;
+}
+
+#footer{
+    
+position: absolute;
+width: 400px;
+height: 100px;
+left: 116px;
+top: 795px;
+
+background: #161619;
+border-radius: 0px 0px 10px 10px;
+}
+
+#linked{
+position: absolute;
+left: 20%;
+top: 20%;
+bottom: 7.32%;  
+width: 25px;
+}
+
+#github{
+position: absolute;
+left: 70%;
+top: 20%;
+bottom: 7.32%;   
+width:30px;
+height:27px;
+}
